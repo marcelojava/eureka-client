@@ -2,7 +2,8 @@ spring:
   application:
     name: spring-cloud-client
 server:
-  port: 0
+  port: 8082
+    
 eureka:
   client:
     serviceUrl:
